@@ -1,4 +1,4 @@
-# Vision_System
+# Vision_System - 개인 프로젝트
 [비젼시스템](https://github.com/voo0o08/Vision_System/blob/main/CV_TermProject.pdf)https://github.com/voo0o08/Vision_System/blob/main/CV_TermProject.pdf
 
 (A. level 1a 답 출력형태)
