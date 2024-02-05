@@ -1,6 +1,6 @@
 # Vision_System - 개인 프로젝트
-각 폴더에 대한 상세 설명은 CV_TermProject_조건.pdf 파일에 있습니다.
-각 코드 및 알고리즘에 대한 설명은 CV_TermProject.pdf 파일에 있습니다.
+각 폴더에 대한 상세 설명은 CV_TermProject_조건.pdf 파일에 있습니다.<br>
+각 코드 및 알고리즘에 대한 설명은 CV_TermProject.pdf 파일에 있습니다.<br>
 [비젼시스템](https://github.com/voo0o08/Vision_System/blob/main/CV_TermProject.pdf)https://github.com/voo0o08/Vision_System/blob/main/CV_TermProject.pdf
 <hr>
 (A. level 1a 답 출력형태)
